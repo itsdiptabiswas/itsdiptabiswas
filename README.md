@@ -1,12 +1,14 @@
-# Dipta Biswas — Frontend Developer (React/TypeScript)
+# Dipta Biswas — Frontend Developer (React/TypeScript/Javascript)
 
 Hi, I’m Dipta (aka [@itsdiptabiswas](https://github.com/itsdiptabiswas)). I build fast, resilient web apps, focusing on DX, UX, and frontend performance.
 
+- Current role: SDE2 — frontend performance & architecture
+- Current work: Optimizing TanStack Table + TanStack Virtual for 60K+ row experiences; minimizing layout thrashing and improving paint smoothness in data-heavy apps
 - Location: Pune, India
 - Interests: React, TypeScript, Next.js, performance budgets, design systems, DX tooling, Web Optimizations
 
 ## What I do
-- Currently working on: TanStack Table + TanStack Virtual to render 60K+ row data sets smoothly, avoiding layout thrashing and optimizing browser painting.
+- Avoiding layout thrashing, optimizing paint/composite, and tuning interaction latency
 - Frontend engineering with React, Next.js, TypeScript, Redux, SCSS
 - System design for feature-heavy UIs (auth, uploads, real-time state)
 - Better UX patterns (smoother interactions, accessibility first)
