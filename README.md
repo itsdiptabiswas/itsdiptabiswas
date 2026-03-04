@@ -1,11 +1,15 @@
 # Dipta Biswas — Frontend Developer (React/TypeScript)
 
-I build fast, accessible web apps with React, TypeScript, and modern tooling. Currently crafting UX and performance improvements across dashboards and file-management flows.
+Hi, I’m Dipta (aka @itsdiptabiswas). I build fast, resilient web apps, focusing on DX, UX, and frontend performance.
+
+- Location: Pune, India
+- Interests: React, TypeScript, Next.js, performance budgets, design systems, DX tooling, Web Optimizations
 
 ## What I do
-- Frontend engineering with React, Next.js, TypeScript, Redux, Tailwind/SCSS
-- Web performance & DX: code-splitting, bundle hygiene, CI lint/format/test
-- System design for feature-heavy UIs (auth, uploads, real-time state, payments)
+- Currently working on: TanStack Table + TanStack Virtual to render 60K+ row data sets smoothly, avoiding layout thrashing and optimizing browser painting.
+- Frontend engineering with React, Next.js, TypeScript, Redux, SCSS
+- System design for feature-heavy UIs (auth, uploads, real-time state)
+- Better UX patterns (smoother interactions, accessibility first)
 
 ## Featured projects
 - Drive Clone (Next.js, React, TypeScript, NextAuth, Razorpay, S3/DO, PWA)  
@@ -16,7 +20,10 @@ I build fast, accessible web apps with React, TypeScript, and modern tooling. Cu
   Repo: https://github.com/itsdiptabiswas/trello-clone · Live: [Url](https://drive-clone-ecru.vercel.app)
 
 ## Tech
-React · Next.js · TypeScript · JavaScript · Redux · Node.js · MongoDB · Firebase · SCSS/Tailwind · Docker · Vercel
+React · Next.js · TypeScript · JavaScript · Redux · Node.js · MongoDB · Firebase · SCSS · Docker
+
+## Learning & Notes
+- JavaScript notes: https://galvanized-wormhole-a98.notion.site/Javascript-Basics-d9d892f4534348aa9cb5a6e7d81730c3
 
 ## Links
 - GitHub: @itsdiptabiswas
