@@ -10,10 +10,10 @@ I build fast, accessible web apps with React, TypeScript, and modern tooling. Cu
 ## Featured projects
 - Drive Clone (Next.js, React, TypeScript, NextAuth, Razorpay, S3/DO, PWA)  
   A Google Drive–style app with auth, chunked uploads, sharing, recycle bin, payments.  
-  Repo: https://github.com/itsdiptabiswas/drive-clone · Live: drive-clone-ecru.vercel.app
+  Repo: https://github.com/itsdiptabiswas/drive-clone · Live: [Url](https://drive-clone-ecru.vercel.app)
 - Trello Clone (React, TypeScript, Redux Toolkit/Saga, Firebase)  
   Boards, lists, tasks, real-time updates, CI/CD.  
-  Repo: https://github.com/itsdiptabiswas/trello-clone · Live: trello-clone-76971.web.app/
+  Repo: https://github.com/itsdiptabiswas/trello-clone · Live: [Url](https://drive-clone-ecru.vercel.app)
 
 ## Tech
 React · Next.js · TypeScript · JavaScript · Redux · Node.js · MongoDB · Firebase · SCSS/Tailwind · Docker · Vercel
