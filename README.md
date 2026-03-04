@@ -1,16 +1,24 @@
-## Hi there 👋
+# Dipta Biswas — Frontend Developer (React/TypeScript)
 
-<!--
-**itsdiptabiswas/itsdiptabiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, accessible web apps with React, TypeScript, and modern tooling. Currently crafting UX and performance improvements across dashboards and file-management flows.
 
-Here are some ideas to get you started:
+## What I do
+- Frontend engineering with React, Next.js, TypeScript, Redux, Tailwind/SCSS
+- Web performance & DX: code-splitting, bundle hygiene, CI lint/format/test
+- System design for feature-heavy UIs (auth, uploads, real-time state, payments)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- Drive Clone (Next.js, React, TypeScript, NextAuth, Razorpay, S3/DO, PWA)  
+  A Google Drive–style app with auth, chunked uploads, sharing, recycle bin, payments.  
+  Repo: https://github.com/itsdiptabiswas/drive-clone · Live: drive-clone-ecru.vercel.app
+- Trello Clone (React, TypeScript, Redux Toolkit/Saga, Firebase)  
+  Boards, lists, tasks, real-time updates, CI/CD.  
+  Repo: https://github.com/itsdiptabiswas/trello-clone · Live: trello-clone-76971.web.app/
+
+## Tech
+React · Next.js · TypeScript · JavaScript · Redux · Node.js · MongoDB · Firebase · SCSS/Tailwind · Docker · Vercel
+
+## Links
+- GitHub: @itsdiptabiswas
+- LinkedIn: https://www.linkedin.com/in/dipta-biswas
+- X/Twitter: @BiswasDipta23
