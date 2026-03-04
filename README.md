@@ -1,6 +1,6 @@
 # Dipta Biswas — Frontend Developer (React/TypeScript)
 
-Hi, I’m Dipta (aka @itsdiptabiswas). I build fast, resilient web apps, focusing on DX, UX, and frontend performance.
+Hi, I’m Dipta (aka [@itsdiptabiswas](https://github.com/itsdiptabiswas)). I build fast, resilient web apps, focusing on DX, UX, and frontend performance.
 
 - Location: Pune, India
 - Interests: React, TypeScript, Next.js, performance budgets, design systems, DX tooling, Web Optimizations
@@ -26,6 +26,6 @@ React · Next.js · TypeScript · JavaScript · Redux · Node.js · MongoDB · F
 - JavaScript notes: https://galvanized-wormhole-a98.notion.site/Javascript-Basics-d9d892f4534348aa9cb5a6e7d81730c3
 
 ## Links
-- GitHub: @itsdiptabiswas
+- GitHub: [@itsdiptabiswas](https://github.com/itsdiptabiswas)
 - LinkedIn: https://www.linkedin.com/in/dipta-biswas
 - X/Twitter: @BiswasDipta23
