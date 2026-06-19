@@ -2,7 +2,7 @@
 
 Hi, I’m Dipta (aka [@itsdiptabiswas](https://github.com/itsdiptabiswas)). I build fast, resilient web apps, focusing on DX, UX, and frontend performance.
 
-- Current role: SDE2 — frontend performance & architecture
+- Current role: SDE3 — frontend performance & architecture
 - Current work: Optimizing TanStack Table + TanStack Virtual for 60K+ row experiences; minimizing layout thrashing and improving paint smoothness in data-heavy apps
 - Location: Pune, India
 - Interests: React, TypeScript, Next.js, performance budgets, design systems, DX tooling, Web Optimizations
