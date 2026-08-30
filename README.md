@@ -31,3 +31,4 @@ React · Next.js · TypeScript · JavaScript · Redux · Node.js · MongoDB · F
 - GitHub: [@itsdiptabiswas](https://github.com/itsdiptabiswas)
 - LinkedIn: https://www.linkedin.com/in/dipta-biswas
 - X/Twitter: [@BiswasDipta23](https://x.com/BiswasDipta23)
+- Portfolio: [Dipta Biswas](https://diptabiswas.in/)
